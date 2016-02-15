@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/superman76/bearApi/issues"
   },
-  "homepage": "https://github.com/superman76/bearApi#readme"
+  "homepage": "https://github.com/superman76/bearApi#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
