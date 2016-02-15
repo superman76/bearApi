@@ -9,5 +9,6 @@ console.log(Calculator);
 
 var myCalculator = new Calculator();
 
-//TEST THE SUM FUNCTION
-
+//TEST THE SUM FUNCTION - Yeehaa it works
+console.log(myCalculator.sum(10, 10));
+console.log(myCalculator.subtract(10, 10));
